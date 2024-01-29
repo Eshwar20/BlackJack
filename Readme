@@ -1,1 +1,10 @@
-A simple implementation of Black Jack Game to Practise JavaScript.
+ ## Blackjack Game App
+
+A simple JavaScript app for playing the classic Blackjack card game. Test your luck and strategy against the dealer!
+
+## Features
+
+- Blackjack game rules implemented.
+- User-friendly interface with buttons for actions like Hit, Stand, and New Game.
+- Display of player and dealer hands with dynamic card images.
+- Score tracking and outcome messages.
